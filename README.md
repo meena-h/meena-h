@@ -107,7 +107,7 @@ public class Meena extends SoftwareEngineer {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🛍️ E-Commerce Platform — Spring Boot Microservices
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/meena-h/E-Commerce-Java)
