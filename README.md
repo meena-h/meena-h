@@ -29,7 +29,7 @@
 public class Meena extends SoftwareEngineer {
 
     String location    = "Bangalore, Karnataka, India 🇮🇳";
-    String role        = "Full Stack Software Engineer";
+    String role        = "Software Engineer";
     String experience  = "1.5 years @ Alt DRX";
     String education   = "BCA — Maharani Cluster University (CGPA: 8.26/10)";
 
